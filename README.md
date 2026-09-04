@@ -1,22 +1,15 @@
-# sergey
+# Sergey
 
-fullstack developer, mostly backend.
+Backend engineer with 3.5+ years of commercial development experience, including work at SberTech and T-Bank. Most of my work is related to fintech, transaction processing and internal services.
 
-i build fintech systems, internal tools, web products and automation.  
-3.5+ years of commercial development.
+My main stack is Java, Spring and PostgreSQL. I also use C++, Python and TypeScript when they fit the task.
 
-this is my second github account — i lost access to the previous one. most production work lives in private, company and client repositories, so this profile focuses on independent projects, public case studies and engineering notes.
+Most commercial code is private and belongs to the companies I worked for. This is my second GitHub account after I lost access to the previous one, so the public history here is newer than my actual experience.
 
-### working with
+### Selected projects
 
-c++ · java · python · typescript · react · node.js · postgresql · redis · docker
-
-### selected work
-
-- [loan-schedule-engine](https://github.com/sunix2131/loan-schedule-engine) — C++ loan calculations with fixed-point money, day-count conventions and invariant tests
-- [ledger-service](https://github.com/sunix2131/ledger-service) — Java/PostgreSQL double-entry ledger with immutable postings, idempotent writes and concurrency tests
-- [FileSweep](https://github.com/sunix2131/FileSweep) — local-first desktop file analysis and cleanup, built with Go, Wails, React and SQLite
-- [DropOnce](https://github.com/sunix2131/droponce) — one-time file transfer over local networks, relay or encrypted peer-to-peer transport
-- [Later](https://github.com/sunix2131/later) — local desktop reading queue with scheduling, SQLite and full-text search
-
-independent fintech projects and sanitized engineering case studies are being published as they reach a tested, reviewable state.
+- [loan-schedule-engine](https://github.com/sunix2131/loan-schedule-engine) — loan schedules in C++ with fixed-point money, day-count conventions and tests for financial invariants
+- [ledger-service](https://github.com/sunix2131/ledger-service) — a Java/PostgreSQL double-entry ledger with immutable postings, idempotent commands and concurrent balance checks
+- [FileSweep](https://github.com/sunix2131/FileSweep) — a desktop tool for finding large, duplicate and unused files; Go, Wails, React and SQLite
+- [DropOnce](https://github.com/sunix2131/droponce) — one-time file transfers over a local network, relay or encrypted peer-to-peer connection
+- [Later](https://github.com/sunix2131/later) — a local desktop reading queue with scheduling and full-text search
