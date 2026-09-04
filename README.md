@@ -13,3 +13,4 @@ Most commercial code is private and belongs to the companies I worked for. This 
 - [FileSweep](https://github.com/sunix2131/FileSweep) — a desktop tool for finding large, duplicate and unused files; Go, Wails, React and SQLite
 - [DropOnce](https://github.com/sunix2131/droponce) — expiring file transfers over a local network, relay or encrypted app-to-app broker bridge
 - [Later](https://github.com/sunix2131/later) — a local desktop reading queue with scheduling and full-text search
+- [arxiv-reader](https://github.com/sunix2131/arxiv-reader) — a local research library with arXiv search, notes and optional Russian translation
