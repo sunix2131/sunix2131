@@ -10,6 +10,7 @@ Most commercial code is private and belongs to the companies I worked for. This 
 
 - [loan-schedule-engine](https://github.com/sunix2131/loan-schedule-engine) — loan schedules in C++ with fixed-point money, day-count conventions and tests for financial invariants
 - [ledger-service](https://github.com/sunix2131/ledger-service) — a Java/PostgreSQL double-entry ledger with immutable postings, idempotent commands and concurrent balance checks
+- [payment-reconciliation](https://github.com/sunix2131/payment-reconciliation) — deterministic matching of internal transactions against bank or PSP statements, with explicit ambiguous outcomes
 - [FileSweep](https://github.com/sunix2131/FileSweep) — a desktop tool for finding large, duplicate and unused files; Go, Wails, React and SQLite
 - [DropOnce](https://github.com/sunix2131/droponce) — expiring file transfers over a local network, relay or encrypted app-to-app broker bridge
 - [Later](https://github.com/sunix2131/later) — a local desktop reading queue with scheduling and full-text search
