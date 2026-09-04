@@ -14,6 +14,7 @@ c++ · java · python · typescript · react · node.js · postgresql · redis �
 ### selected work
 
 - [loan-schedule-engine](https://github.com/sunix2131/loan-schedule-engine) — C++ loan calculations with fixed-point money, day-count conventions and invariant tests
+- [ledger-service](https://github.com/sunix2131/ledger-service) — Java/PostgreSQL double-entry ledger with immutable postings, idempotent writes and concurrency tests
 - [FileSweep](https://github.com/sunix2131/FileSweep) — local-first desktop file analysis and cleanup, built with Go, Wails, React and SQLite
 - [DropOnce](https://github.com/sunix2131/droponce) — one-time file transfer over local networks, relay or encrypted peer-to-peer transport
 - [Later](https://github.com/sunix2131/later) — local desktop reading queue with scheduling, SQLite and full-text search
