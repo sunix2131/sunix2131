@@ -1,6 +1,6 @@
 # Sergey
 
-Backend engineer with 3.5+ years of commercial development experience, including work at SberTech and T-Bank. Most of my work is related to fintech, transaction processing and internal services.
+fullstack engineer with 3.5+ years of commercial development experience, including work at SberTech and T-Bank. Most of my work is related to fintech, transaction processing and internal services.
 
 My main stack is Java, Spring and PostgreSQL. I also use C++, Python and TypeScript when they fit the task.
 
@@ -8,7 +8,7 @@ Most commercial code is private and belongs to the companies I worked for. This 
 
 -------------------------------------------
 
-Бэкенд-инженер с более чем 3,5-летним опытом коммерческой разработки, включая работу в SberTech и T-Bank. Большая часть моей работы связана с финтехами, обработкой транзакций и внутренними услугами.
+fullstack инженер с более чем 3,5-летним опытом коммерческой разработки, включая работу в SberTech и T-Bank. Большая часть моей работы связана с финтехами, обработкой транзакций и внутренними услугами.
 
 Мой основной стек Java, Spring и PostgreSQL. Я также использую C++, Python и TypeScript, когда они соответствуют поставленной задаче.
 
