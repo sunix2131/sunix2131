@@ -6,6 +6,14 @@ My main stack is Java, Spring and PostgreSQL. I also use C++, Python and TypeScr
 
 Most commercial code is private and belongs to the companies I worked for. This is my second GitHub account after I lost access to the previous one, so the public history here is newer than my actual experience.
 
+-------------------------------------------
+
+Бэкенд-инженер с более чем 3,5-летним опытом коммерческой разработки, включая работу в SberTech и T-Bank. Большая часть моей работы связана с финтехами, обработкой транзакций и внутренними услугами.
+
+Мой основной стек Java, Spring и PostgreSQL. Я также использую C++, Python и TypeScript, когда они соответствуют поставленной задаче.
+
+Большинство коммерческих проектов являются частными и принадлежат компаниям, в которых я работал. Это моя вторая учетная запись GitHub после того, как я потерял доступ к предидущей, поэтому публичная история здесь новее, как то так :)
+
 ### Selected projects
 
 - [LoanPlan](https://github.com/sunix2131/loanplan) — loan schedules in C++ with fixed-point money, day-count conventions and tests for financial invariants
