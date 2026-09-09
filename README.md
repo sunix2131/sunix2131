@@ -1,24 +1,24 @@
 # Sergey
 
-fullstack engineer with 3.5+ years of commercial development experience, including work at SberTech and T-Bank. Most of my work is related to fintech, transaction processing and internal services.
+Fullstack developer with 3.5+ years of commercial experience, including SberTech and T-Bank. I mainly work on the backend of fintech applications.
 
-My main stack is Java, Spring and PostgreSQL. I also use C++, Python and TypeScript when they fit the task.
+My main stack is Java, Spring and PostgreSQL. I also write Python, C++ and TypeScript.
 
-Most commercial code is private and belongs to the companies I worked for. This is my second GitHub account after I lost access to the previous one, so the public history here is newer than my actual experience.
+I lost access to my previous GitHub account and created this one to rebuild my personal project collection. The repositories below are independent projects, not company code.
 
--------------------------------------------
+## Projects
 
-fullstack инженер с более чем 3,5-летним опытом коммерческой разработки, включая работу в SberTech и T-Bank. Большая часть моей работы связана с финтехами, обработкой транзакций и внутренними услугами.
+- [LedgerCore](https://github.com/sunix2131/ledgercore) — double-entry accounting: balanced postings, reversals and protection against duplicate writes. Java / PostgreSQL.
+- [PayMatch](https://github.com/sunix2131/paymatch) — reconcile payment records with bank statements and inspect unmatched or ambiguous transactions. Python.
+- [EventRelay](https://github.com/sunix2131/eventrelay) — deliver database changes to Kafka using a transactional outbox, with retries and consumer deduplication. Java.
+- [LoanPlan](https://github.com/sunix2131/loanplan) — calculate loan schedules and early repayments in whole cents. C++.
+- [FileSweep](https://github.com/sunix2131/filesweep) — find duplicate and large files, review moves before applying them, and undo completed moves. Go / React.
+- [DropOnce](https://github.com/sunix2131/droponce) — send files through expiring links over a local network, relay or encrypted app-to-app connection. Go / React.
 
-Мой основной стек Java, Spring и PostgreSQL. Я также использую C++, Python и TypeScript, когда они соответствуют поставленной задаче.
+Other tools: [ArxivDesk](https://github.com/sunix2131/arxivdesk) for reading papers, [LinkLater](https://github.com/sunix2131/linklater) for saved links and reminders, and [LeadMap](https://github.com/sunix2131/leadmap) for my local-business research workflow.
 
-Большинство коммерческих проектов являются частными и принадлежат компаниям, в которых я работал. Это моя вторая учетная запись GitHub после того, как я потерял доступ к предидущей, поэтому публичная история здесь новее, как то так :)
+## По-русски
 
-### Selected projects
+Я Сергей, fullstack-разработчик. В коммерческой разработке больше 3,5 лет, работал в СберТехе и Т-Банке. В основном занимаюсь бэкендом в финтехе: Java, Spring, PostgreSQL. Для других задач использую Python, C++ и TypeScript.
 
-- [LoanPlan](https://github.com/sunix2131/loanplan) — loan schedules in C++ with fixed-point money, day-count conventions and tests for financial invariants
-- [LedgerCore](https://github.com/sunix2131/ledgercore) — a Java/PostgreSQL double-entry ledger with immutable postings, idempotent commands and concurrent balance checks
-- [PayMatch](https://github.com/sunix2131/paymatch) — deterministic matching of internal transactions against bank or PSP statements, with explicit ambiguous outcomes
-- [EventRelay](https://github.com/sunix2131/eventrelay) — PostgreSQL outbox delivery to Kafka with bounded retries and idempotent consumers
-- [FileSweep](https://github.com/sunix2131/filesweep) — a desktop tool for finding large, duplicate and unused files; Go, Wails, React and SQLite
-- [DropOnce](https://github.com/sunix2131/droponce) — expiring file transfers over a local network, relay or encrypted app-to-app broker bridge
+К прежнему аккаунту потерял доступ, поэтому завёл новый и восстанавливаю здесь свои личные проекты. Код работодателей в эти репозитории не входит.
