@@ -17,6 +17,13 @@ I lost access to my previous GitHub account and created this one to rebuild my p
 
 Other tools: [ArxivDesk](https://github.com/sunix2131/arxivdesk) for reading papers, [LinkLater](https://github.com/sunix2131/linklater) for saved links and reminders, and [LeadMap](https://github.com/sunix2131/leadmap) for my local-business research workflow.
 
+## 1C data exchange
+
+Two Python tools for checking exported files before import. Neither requires a running 1C instance.
+
+- [BankGuard](https://github.com/sunix2131/bankguard) — check bank exchange files for duplicate documents, invalid posting dates and inconsistent balance totals.
+- [CatalogLint](https://github.com/sunix2131/cataloglint) — check CommerceML products, prices and stock, and flag unexpected catalog shrinkage between full exports.
+
 ## По-русски
 
 Я Сергей,
@@ -25,4 +32,3 @@ fullstack-разработчик. В коммерческой разработк
 Также я владелец своей ИТ студии flovant
 
 К прежнему аккаунту потерял доступ, поэтому завёл новый и восстанавливаю здесь свои личные проекты. Код работодателей в эти репозитории не входит.
-
