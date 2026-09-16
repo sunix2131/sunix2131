@@ -2,7 +2,7 @@
 
 Fullstack developer with 3.5+ years of commercial experience, including SberTech and T-Bank. I mainly work on the backend of fintech applications.
 
-My main stack is Java, Spring and PostgreSQL. I also write Python, C++ and TypeScript.
+My main stack is Java, Spring and PostgreSQL. I also work with 1C:Enterprise and write Python, C++ and TypeScript.
 
 I lost access to my previous GitHub account and created this one to rebuild my personal project collection. The repositories below are independent projects, not company code.
 
@@ -20,10 +20,9 @@ Other tools: [ArxivDesk](https://github.com/sunix2131/arxivdesk) for reading pap
 ## По-русски
 
 Я Сергей,
-fullstack-разработчик. В коммерческой разработке больше 3,5 лет, работал в СберТехе и Т-Банке. В основном занимаюсь бэкендом в финтехе: Java, Spring, PostgreSQL. Для других задач использую Python, C++ и TypeScript.
+fullstack-разработчик. В коммерческой разработке больше 3,5 лет, работал в СберТехе и Т-Банке. В основном занимаюсь бэкендом в финтехе: Java, Spring, PostgreSQL. Также работаю с 1С:Предприятием, использую Python, C++ и TypeScript.
 
 Также я владелец своей ИТ студии flovant
 
 К прежнему аккаунту потерял доступ, поэтому завёл новый и восстанавливаю здесь свои личные проекты. Код работодателей в эти репозитории не входит.
-
 
