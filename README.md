@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="sunix2131" width="100%">
+</p>
+
 # Сергей
 
 Бэкенд-разработчик из Петербурга. Больше 3,5 лет в коммерческой разработке, работал в СберТехе и Т-Банке, в основном над бэкендом финансовых систем: расчёты, платежи, учёт, интеграции. Там привык, что цифры должны сходиться до копейки, а любое изменение проверяется до выкладки.
@@ -6,12 +10,16 @@
 
 Веду небольшую студию **Flovant**: сайты, Telegram-боты, парсеры и сервисы для малого бизнеса.
 
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
 ## Исследования
 
 Небольшие работы по известным статьям: реализую с нуля, проверяю на эталонных значениях и отдельной моделью, измеряю то, что в статьях оценено приближённо. Каждая заканчивается отчётом в PDF.
 
 - [TamperLog](https://github.com/sunix2131/tamperlog) — журнал с защитой от подделки на дереве истории Crosby–Wallach и форматах RFC 6962/9162, симуляция раздвоения журнала. C++20.
 - [Systems Research](https://github.com/sunix2131/systems-research) — выборы лидера в Raft при потере пакетов и реальная стоимость слияний в LSM-дереве при leveling и tiering. Отчёты.
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ## Деньги и учёт
 
@@ -20,12 +28,16 @@
 - [PayMatch](https://github.com/sunix2131/paymatch) — сверка платежей с банковской выпиской: что совпало, что нет, что нужно проверить руками. Python.
 - [LoanPlan](https://github.com/sunix2131/loanplan) — графики кредита и досрочные погашения в целых копейках, без ошибок округления. Библиотека и консольная утилита на C++.
 
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
 ## Обмен с 1С
 
 Проверяют файлы до загрузки, работающая 1С не нужна.
 
 - [BankGuard](https://github.com/sunix2131/bankguard) — банковская выписка: дубли документов, даты проводок вне периода, сходятся ли остатки и обороты. Python.
 - [CatalogLint](https://github.com/sunix2131/cataloglint) — выгрузка CommerceML: товары без цен, битые ссылки, отрицательные остатки, внезапно пропавшие из каталога позиции. Python.
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ## Утилиты
 
@@ -34,6 +46,8 @@
 - [ArxivDesk](https://github.com/sunix2131/arxivdesk) — читалка arXiv с поиском, заметками и историей. TypeScript.
 - [LinkLater](https://github.com/sunix2131/linklater) — сохранённые ссылки с заметками и напоминаниями. Python, SQLite.
 - [LeadMap](https://github.com/sunix2131/leadmap) — сбор открытых карточек компаний и небольшая CRM для работы с ними. Python, FastAPI, React.
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
 ## Код закрыт, но проекты есть
 
@@ -49,8 +63,14 @@
 
 ---
 
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
 ## In English
 
 Backend developer based in Saint Petersburg with 3.5+ years of commercial experience, including SberTech and T-Bank, mostly on the backend of financial systems. Main stack: Java, Spring, PostgreSQL. I also write Python, Go, C++ and TypeScript and work with 1C:Enterprise. I run Flovant, a small studio building websites, bots and services for small businesses.
 
 The repositories above are personal projects, not employer code.
+
+<p align="center">
+  <img src="assets/footer.svg" alt="" width="100%">
+</p>
